@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "721102588509",
+    "project_id": "dark-media-getx",
+    "storage_bucket": "dark-media-getx.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:721102588509:android:05d0ebd34469197449dbb4",
+        "android_client_info": {
+          "package_name": "com.example.clonetiktok"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFG-MlAGXzFad7r1nkeeGAvzEAeuJFW2M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
